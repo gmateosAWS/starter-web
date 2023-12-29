@@ -12,6 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-
+As this is a simple web project, deployment can be on any web server or even local file system.
 
 ## How to contribute
+
+Buy me a good cup of coffe
